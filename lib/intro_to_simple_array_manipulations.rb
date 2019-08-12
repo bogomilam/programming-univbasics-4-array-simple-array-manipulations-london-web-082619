@@ -23,5 +23,5 @@ element = array.shift(2)
 end
 
 def usingconcat(array,array)
-  
+array.concat  
 end
