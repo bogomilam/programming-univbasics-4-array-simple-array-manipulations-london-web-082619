@@ -11,5 +11,5 @@ element = array.pop
 end
 
 def pop_with_args(array)
-element[-2] = array.pop
+element = array.pop[2]
 end
