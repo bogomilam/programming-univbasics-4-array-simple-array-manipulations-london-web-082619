@@ -15,5 +15,5 @@ element = array.pop(2)
 end
 
 def using_shift(array)
-  
+element = array.shift  
 end
